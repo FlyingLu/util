@@ -1,7 +1,7 @@
 package concurrent
 
 import (
-	"mygo/util"
+	"github.com/FlyingLu/util"
 	"sync"
 )
 
