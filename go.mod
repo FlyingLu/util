@@ -1,3 +1,3 @@
-module mygo/util
+module github.com/FlyingLu/util
 
 go 1.15
